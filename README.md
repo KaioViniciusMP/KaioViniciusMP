@@ -3,7 +3,7 @@
 - 👨‍💻 Atualmente eu trabalho como desenvolvedor backend e mobile
 - 🔍 Também sou muito curioso e gosto de aprender novas tecnologias
 - 💬 Pergunte-me sobre desenvolvimento web, mobile e melhores práticas de programação
-- 📫 Como me contatar: contkaio@gmail.com ou Kaio Vinicius
+- 📫 Como me contatar: contkaio@gmail.com 
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: Adoro tocar instrumentos musicais e estudar nas horas livres!
 
