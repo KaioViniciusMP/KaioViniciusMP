@@ -1,4 +1,4 @@
-# Bem vindo ao meu Perfil, muito prazer, eu sou o Kaio!!! 😁
+# Bem vindo ao meu Perfil, meu nome é Kaio!!! 😁
 - 💻 Eu sou Desenvolvedor Full Stack
 - 👨‍💻 Atualmente eu trabalho como desenvolvedor backend e mobile
 - 🔍 Também sou muito curioso e gosto de aprender novas tecnologias
@@ -38,6 +38,10 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
 ![Redis](https://img.shields.io/badge/Redis-F7DF1E?style=for-the-badge&logo=redis&logoColor=black)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-F7DF1E?style=for-the-badge&logo=redis&logoColor=black)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
+![Tawilwindcss](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 
 #### Studying in this moment:
 
