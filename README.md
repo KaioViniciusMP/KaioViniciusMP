@@ -4,7 +4,6 @@
 - 🔍 Também sou muito curioso e gosto de aprender novas tecnologias
 - 💬 Pergunte-me sobre desenvolvimento web, mobile e melhores práticas de programação
 - 📫 Como me contatar: contkaio@gmail.com 
-- 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: Adoro tocar instrumentos musicais e estudar nas horas livres!
 
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
